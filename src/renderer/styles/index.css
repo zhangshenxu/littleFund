@@ -1,0 +1,15 @@
+.container {
+  padding: 10px 10px;
+  width: 100%;
+}
+.addbox-container {
+  margin-bottom: 20px;
+}
+.minus-btn, .minus-btn:focus, .minus-btn:hover {
+  background-color: #ff4d4f;
+  color: white;
+  border-color: white;
+}
+.table .ant-table-row:hover td {
+  background-color: white;
+}
